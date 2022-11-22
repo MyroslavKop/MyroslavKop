@@ -23,5 +23,4 @@ I educate, refine and drive myself to be a better person
 #
 
 <h2 align="left">📊 My Github Stats:</h2>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyroslavKop&layout=compact&theme=tokyonight&hide_border=true"/>
