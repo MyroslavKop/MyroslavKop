@@ -1,5 +1,26 @@
-<h1 align="center">🧑🏽‍💻 Hi, I'm Myroslav.</h1>
-<h3 align="center">I am Myroslav Kopytov. I am a beginner frontend developer with 9 months experience. I really love my profession and constantly develop myself in it.</h3>
+<h1 align="left">🧑🏽‍💻 Hi, I'm Myroslav. 🇺🇦</h1>
+<p>I am Myroslav Kopytov. I am a beginner frontend developer with 9 months experience. I really love my profession and I am determined to keep growing and improving, professionally and personally.  I am looking to implement all my potential and knowledge in the development with React, as well as in the different technologies that I have learned and continue to learn.</p>
 
-<h3 align="left">Languages and Tools:</h3>
+#
+
+<h2 align="left">📬 Connect with me:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/myroslavkopytov/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/miroslavkopitov/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-010053?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MyroslavKop)
+[![Github](https://img.shields.io/github/followers/MyroslavKop?label=Follow&style=social)](https://github.com/MyroslavKop)
+
+#
+
+##
+
+<h2 align="left">🧰 Languages and Tools:</h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+#
+
+<h2 align="left">📊 My Github Stats:</h2>
+
+##
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyroslavKop&layout=compact&theme=tokyonight&hide_border=true"/>
