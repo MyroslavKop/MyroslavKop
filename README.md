@@ -3,11 +3,8 @@
 
 I educate, refine and drive myself to be a better person
 
-- I am constantly learning because I never settle
 - I stay calm when faced with adversity
 - I focus on making high-quality decisions
-
-> I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech.
 
 #
 
