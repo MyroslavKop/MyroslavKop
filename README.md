@@ -1,5 +1,5 @@
 <h1 align="left">🧑🏽‍💻 Hi, I'm Myroslav</h1>
-<p>I am Myroslav Kopytov. I am a beginner frontend developer with 9 months experience. I really love my profession and I am determined to keep growing and improving, professionally and personally.  I am looking to implement all my potential and knowledge in the development with React, as well as in the different technologies that I have learned and continue to learn.</p>
+<p>I am Myroslav Kopytov. I am a strong junior frontend developer. I really love my profession and I am determined to keep growing and improving, professionally and personally.  I am looking to implement all my potential and knowledge in the development with React, as well as in the different technologies that I have learned and continue to learn.</p>
 
 I educate, refine and drive myself to be a better person
 
